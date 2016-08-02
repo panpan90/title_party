@@ -15,6 +15,9 @@ import com.sohu.mrd.util.Maputils;
 
 public class GenerateSVMFile {
 	/**
+	 * 
+	 * 
+	 * 
 	 * 把标题转化为libsvm能识别的样式 按照比例的方式
 	 * @param path
 	 * @param termInfo
